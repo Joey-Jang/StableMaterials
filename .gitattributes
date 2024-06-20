@@ -1,0 +1,5 @@
+text_encoder/model.safetensors filter=lfs diff=lfs merge=lfs -text
+unet/diffusion_pytorch_model.safetensors filter=lfs diff=lfs merge=lfs -text
+unet_lcm/diffusion_pytorch_model.safetensors filter=lfs diff=lfs merge=lfs -text
+vae/diffusion_pytorch_model.safetensors filter=lfs diff=lfs merge=lfs -text
+vision_encoder/model.safetensors filter=lfs diff=lfs merge=lfs -text
