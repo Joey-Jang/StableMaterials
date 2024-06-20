@@ -1,0 +1,32 @@
+{
+  "_class_name": ["pipeline", "StableMaterialsPipeline"],
+  "_diffusers_version": "0.27.2",
+  "processor": [
+    "transformers",
+    "CLIPProcessor"
+  ],
+  "scheduler": [
+    "diffusers",
+    "DDIMScheduler"
+  ],
+  "text_encoder": [
+    "transformers",
+    "CLIPTextModelWithProjection"
+  ],
+  "tokenizer": [
+    "transformers",
+    "CLIPTokenizerFast"
+  ],
+  "unet": [
+    "diffusers",
+    "UNet2DConditionModel"
+  ],
+  "vae": [
+    "diffusers",
+    "AutoencoderKL"
+  ],
+  "vision_encoder": [
+    "transformers",
+    "CLIPVisionModelWithProjection"
+  ]
+}
