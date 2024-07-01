@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "bos_token": {
     "content": "<|startoftext|>",
@@ -28,3 +29,35 @@
     "single_word": false
   }
 }
+=======
+{
+  "bos_token": {
+    "content": "<|startoftext|>",
+    "lstrip": false,
+    "normalized": true,
+    "rstrip": false,
+    "single_word": false
+  },
+  "eos_token": {
+    "content": "<|endoftext|>",
+    "lstrip": false,
+    "normalized": false,
+    "rstrip": false,
+    "single_word": false
+  },
+  "pad_token": {
+    "content": "<|endoftext|>",
+    "lstrip": false,
+    "normalized": false,
+    "rstrip": false,
+    "single_word": false
+  },
+  "unk_token": {
+    "content": "<|endoftext|>",
+    "lstrip": false,
+    "normalized": false,
+    "rstrip": false,
+    "single_word": false
+  }
+}
+>>>>>>> bc6e13af2f1a2741bc9e0ac5e97259864bbc1f83

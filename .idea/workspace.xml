@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faaffe81-da0d-4c0a-8975-9a8e5f07a11c" name="Changes" comment="" />
+    <list default="true" id="faaffe81-da0d-4c0a-8975-9a8e5f07a11c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/model_index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/pipeline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processor/preprocessor_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/processor/preprocessor_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processor/special_tokens_map.json" beforeDir="false" afterPath="$PROJECT_DIR$/processor/special_tokens_map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processor/tokenizer_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/processor/tokenizer_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler/scheduler_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler/scheduler_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_encoder/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/text_encoder/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tokenizer/special_tokens_map.json" beforeDir="false" afterPath="$PROJECT_DIR$/tokenizer/special_tokens_map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tokenizer/tokenizer_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/tokenizer/tokenizer_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unet/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/unet/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vae/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/vae/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vision_encoder/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/vision_encoder/config.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,26 +28,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2i9FBSzPVOEita2qCl0TznZOhXP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -49,7 +64,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718894751354</updated>
-      <workItem from="1718894752702" duration="977000" />
+      <workItem from="1718894752702" duration="1049000" />
+      <workItem from="1718896013475" duration="681000" />
     </task>
     <servers />
   </component>
